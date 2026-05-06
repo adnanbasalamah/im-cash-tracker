@@ -1,0 +1,8 @@
+node_modules/
+build/
+stitch_cashier_cash_tracker/
+stitch_cashier_cash_tracker_login/
+stitch_cashier_cash_tracker.zip
+stitch_cashier_cash_tracker_login.zip
+ospos.sql
+*.zip
